@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:1234567890@example.com
+DTSTAMP:20231025T000000Z
+ORGANIZER;CN=Anastasiia & Oswald:MAILTO:anastasiia.oswald@gmail.com
+SUMMARY:Wedding Anastasiia & Oswald
+LOCATION:https://oswaldjager.github.io/wedding/forthevideo.html
+DTSTART:20241111T140000Z
+DTEND:20241111T203000Z
+END:VEVENT
+END:VCALENDAR
